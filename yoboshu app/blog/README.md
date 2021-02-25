@@ -1,4 +1,4 @@
-# trainers-blog-react
+# Trainers-blog-react
 React trainers blog project
 
 # Stack
