@@ -4,7 +4,7 @@ React trainers blog project
 # Stack
 >create-react-app
 
-# icons
+# icons(packages)
 1) npm install @react-icons/all-files --save
 2) npm i --save @fortawesome/fontawesome-svg-core
 3) npm i --save @fortawesome/free-solid-svg-icons
