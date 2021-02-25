@@ -1,0 +1,40 @@
+.full{
+    
+    
+    background: linear-gradient(-80deg,white 50%,#13f2ff 20%);
+    
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+
+  }
+  .boy{
+      width:400px;
+      height: 400px;
+      margin-top: 100px;
+      margin-left: 50px;
+     
+  }
+  
+  .name{
+      margin-top: 150px;
+      margin-left: 0px;
+      font-size: 60px;
+    
+   
+      
+  }
+  .boy1{
+      width:400px;
+      height: 400px;
+      margin-top: 100px;
+      margin-left: 50px;
+
+  }
+  .name1{
+      margin-top: 150px;
+      margin-left: 50px;
+      font-size: 60px;
+  }

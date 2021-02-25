@@ -1,0 +1,19 @@
+
+.card-1{
+    margin-top:100px;
+    border: unset;
+    border-radius: 15%;
+    box-shadow: transparent;
+    animation: mybots 3s ease-in 0s 1 reverse;
+
+}
+@keyframes mybots {
+    0% { left: 0px; }
+    100% { left: 500px; }
+}
+
+.imgs-2{
+    height: 150px;
+    width: 100px;
+    float: left;
+}

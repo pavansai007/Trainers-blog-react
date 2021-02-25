@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+* {
+	box-sizing: border-box;
+}
+.full1{
+
+	background: linear-gradient(-80deg,#13f2ff 30%, white 60%);
+	
+}
+
+
+
+h3 {
+	margin: 10px 0;
+}
+
+h6 {
+	margin: 5px 0;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.card-container {
+    background-image: linear-gradient(to right top, #86ffff, #00e8ff, #00c8ff, #7799ff, #db4df0);
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
+	color: black;
+	padding-top: 30px;
+	position: relative;
+	width: 350px;
+	max-width: 100%;
+	text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.card-container .pro {
+	color: #231E39;
+	background-color: #23f2ff;
+	border-radius: 3px;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 3px 7px;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+}
+.card-container .cost{
+    color: #231E39;
+    background-color: #23f2ff;
+    border-radius: 3px;
+    font-size: 14px;
+    font-family: bold;
+    padding: 3px 7px;
+    position: absolute;
+    top: 296px;
+	left: 240px;
+    
+}
+
+.card-container .round {
+	border: 1px solid black;
+	border-radius: 50%;
+	padding: 7px;
+}
+
+button.primary {
+	background-color: #03BFCB;
+	border: 1px solid #03BFCB;
+	border-radius: 3px;
+	color: #231E39;
+	font-family: Montserrat, sans-serif;
+	font-weight: 500;
+	padding: 10px 25px;
+}
+
+button.primary.ghost {
+	background-color: transparent;
+	color: black;
+    border-radius: 50%;
+    border-color: black;
+}
+
+
+.skills {
+	background-color: black;
+	text-align: left;
+	padding: 15px;
+	margin-top: 30px;
+    color: white;
+}
+
+.skills ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.skills ul li {
+	border: 1px solid #2D2747;
+	border-radius: 2px;
+	display: inline-block;
+	font-size: 12px;
+	margin: 0 7px 7px 0;
+	padding: 7px;
+    color: white;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+
+  }
+  h4{
+      font-size: 50px;
+      font-weight: bolder;
+      margin-left: 550px;
+      margin-top: 100px;
+	  
+  }
+  .cam{
+	  color: white;
+  }
+  

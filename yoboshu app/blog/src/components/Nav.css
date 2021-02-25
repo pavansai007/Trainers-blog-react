@@ -1,0 +1,30 @@
+#full{
+    background-image: linear-gradient(to right top, #86ffff, #00e8ff, #00c8ff, #7799ff, #db4df0);
+    
+}
+#brand{
+    color:teal;
+    margin-left: 75px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    width:120px;
+}
+#side{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-right: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mr-auto{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.active{
+    text-shadow: slategrey;
+}
